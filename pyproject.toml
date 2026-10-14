@@ -1,0 +1,11 @@
+[project]
+name = "medical-image-uncertainty"
+version = "1.0.0"
+description = "Medical image classification that knows when not to predict: calibration, MC dropout, deep ensembles, selective prediction and robustness on DermaMNIST and BloodMNIST."
+requires-python = ">=3.10"
+license = "MIT"
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]
+filterwarnings = ["ignore::DeprecationWarning", "ignore::FutureWarning"]
