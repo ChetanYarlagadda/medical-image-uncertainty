@@ -1,0 +1,21 @@
+dataset,statistic,published,observed,match,source
+dermamnist,train,7007,7007,True,MedMNIST v2 paper (Table 1) vs loaded arrays
+dermamnist,val,1003,1003,True,MedMNIST v2 paper (Table 1) vs loaded arrays
+dermamnist,test,2005,2005,True,MedMNIST v2 paper (Table 1) vs loaded arrays
+dermamnist,classes,7,7,True,MedMNIST v2 paper (Table 1) vs loaded arrays
+bloodmnist,train,11959,11959,True,MedMNIST v2 paper (Table 1) vs loaded arrays
+bloodmnist,val,1712,1712,True,MedMNIST v2 paper (Table 1) vs loaded arrays
+bloodmnist,test,3421,3421,True,MedMNIST v2 paper (Table 1) vs loaded arrays
+bloodmnist,classes,8,8,True,MedMNIST v2 paper (Table 1) vs loaded arrays
+dermamnist,MD5 of dermamnist_64.npz,b70a2f5635c6199aeaa28c31d7202e1f,b70a2f5635c6199aeaa28c31d7202e1f,True,medmnist.info.INFO vs this project's pinned values
+dermamnist,license,CC BY-NC 4.0,CC BY-NC 4.0,True,medmnist.info.INFO vs this project's pinned values
+dermamnist,classes,7,7,True,medmnist.info.INFO vs this project's pinned values
+dermamnist,train images,7007,7007,True,medmnist.info.INFO vs this project's pinned values
+dermamnist,val images,1003,1003,True,medmnist.info.INFO vs this project's pinned values
+dermamnist,test images,2005,2005,True,medmnist.info.INFO vs this project's pinned values
+bloodmnist,MD5 of bloodmnist_64.npz,2b94928a2ae4916078ca51e05b6b800b,2b94928a2ae4916078ca51e05b6b800b,True,medmnist.info.INFO vs this project's pinned values
+bloodmnist,license,CC BY 4.0,CC BY 4.0,True,medmnist.info.INFO vs this project's pinned values
+bloodmnist,classes,8,8,True,medmnist.info.INFO vs this project's pinned values
+bloodmnist,train images,11959,11959,True,medmnist.info.INFO vs this project's pinned values
+bloodmnist,val images,1712,1712,True,medmnist.info.INFO vs this project's pinned values
+bloodmnist,test images,3421,3421,True,medmnist.info.INFO vs this project's pinned values

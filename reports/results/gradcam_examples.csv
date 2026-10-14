@@ -1,0 +1,19 @@
+dataset,order,category,test_index,label,prediction,confidence_single,ensemble_prediction,confidence_ensemble_ts
+dermamnist,0,confident and correct,1296,nv,nv,0.9988566637039185,nv,0.9996498823165894
+dermamnist,1,confident and correct,1018,nv,nv,0.9967547059059143,nv,0.9991494417190552
+dermamnist,2,confident and correct,1692,nv,nv,0.9974664449691772,nv,0.9993225336074829
+dermamnist,3,confident but wrong,1332,bkl,nv,0.9990668892860413,nv,0.9726036190986633
+dermamnist,4,confident but wrong,1117,bkl,nv,0.9986490607261658,nv,0.9656763076782227
+dermamnist,5,confident but wrong,1351,bkl,nv,0.9973562955856323,nv,0.9667384028434753
+dermamnist,6,most uncertain (ensemble),45,bcc,bcc,0.4407571256160736,bcc,0.2714645266532898
+dermamnist,7,most uncertain (ensemble),411,bcc,vasc,0.6720566153526306,bcc,0.30380791425704956
+dermamnist,8,most uncertain (ensemble),586,akiec,nv,0.4499933123588562,vasc,0.31135237216949463
+bloodmnist,0,confident and correct,2196,eosi,eosi,0.9999921321868896,eosi,0.9999991655349731
+bloodmnist,1,confident and correct,1757,eosi,eosi,0.9999943971633911,eosi,0.9999970197677612
+bloodmnist,2,confident and correct,2931,eosi,eosi,0.9999650716781616,eosi,0.9999995231628418
+bloodmnist,3,confident but wrong,1750,mono,lymph,0.9999995231628418,lymph,0.9999995231628418
+bloodmnist,4,confident but wrong,3126,neut,eosi,0.9999947547912598,eosi,0.9999995231628418
+bloodmnist,5,confident but wrong,839,neut,ig,0.9998536109924316,ig,0.9995748400688171
+bloodmnist,6,most uncertain (ensemble),2512,eryth,mono,0.5710971355438232,mono,0.3887993097305298
+bloodmnist,7,most uncertain (ensemble),3025,ig,neut,0.648158073425293,ig,0.46326684951782227
+bloodmnist,8,most uncertain (ensemble),957,ig,ig,0.4924621284008026,baso,0.4814791679382324

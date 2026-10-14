@@ -1,0 +1,8 @@
+dataset,method,temperature
+dermamnist,Single model,1.2959637324611193
+dermamnist,MC dropout,1.2322967393552369
+dermamnist,Deep ensemble,0.9823947066433029
+dermamnist,Class-weighted loss,1.329962544905877
+bloodmnist,Single model,1.0845484331545223
+bloodmnist,MC dropout,1.0299405997189026
+bloodmnist,Deep ensemble,0.7696418650118094

@@ -1,0 +1,17 @@
+dataset,model,source,resolution,auc,accuracy
+dermamnist,ResNet-18 (28),"MedMNIST v2 (Yang et al., 2023)",28,0.917,0.735
+dermamnist,ResNet-18 (224),"MedMNIST v2 (Yang et al., 2023)",224,0.92,0.754
+dermamnist,ResNet-50 (28),"MedMNIST v2 (Yang et al., 2023)",28,0.913,0.735
+dermamnist,ResNet-50 (224),"MedMNIST v2 (Yang et al., 2023)",224,0.912,0.731
+dermamnist,Google AutoML Vision,"MedMNIST v2 (Yang et al., 2023)",28,0.914,0.768
+dermamnist,"Linear probe (frozen ImageNet features), this project",this project,64,0.9145235930170331,0.7511221945137158
+dermamnist,"Single model, this project",this project,64,0.9646896464484078,0.8309226932668329
+dermamnist,"Deep ensemble + TS, this project",this project,64,0.9710091522761753,0.8423940149625935
+bloodmnist,ResNet-18 (28),"MedMNIST v2 (Yang et al., 2023)",28,0.998,0.958
+bloodmnist,ResNet-18 (224),"MedMNIST v2 (Yang et al., 2023)",224,0.998,0.963
+bloodmnist,ResNet-50 (28),"MedMNIST v2 (Yang et al., 2023)",28,0.997,0.956
+bloodmnist,ResNet-50 (224),"MedMNIST v2 (Yang et al., 2023)",224,0.997,0.95
+bloodmnist,Google AutoML Vision,"MedMNIST v2 (Yang et al., 2023)",28,0.998,0.966
+bloodmnist,"Linear probe (frozen ImageNet features), this project",this project,64,0.9893321543931961,0.8798596901490792
+bloodmnist,"Single model, this project",this project,64,0.9991372376680374,0.9871382636655949
+bloodmnist,"Deep ensemble + TS, this project",this project,64,0.9992635324597359,0.9900613855597779

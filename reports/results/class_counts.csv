@@ -1,0 +1,16 @@
+dataset,class_id,class,short,train,val,test,train_share
+dermamnist,0,actinic keratosis,akiec,228,33,66,0.03253888968174683
+dermamnist,1,basal cell carcinoma,bcc,359,52,103,0.051234479805908374
+dermamnist,2,benign keratosis,bkl,769,110,220,0.10974739546168118
+dermamnist,3,dermatofibroma,df,80,12,23,0.01141715427429713
+dermamnist,4,melanoma,mel,779,111,223,0.11117453974596832
+dermamnist,5,melanocytic nevus,nv,4693,671,1341,0.6697588126159555
+dermamnist,6,vascular lesion,vasc,99,14,29,0.0141287284144427
+bloodmnist,0,basophil,baso,852,122,244,0.07124341500125428
+bloodmnist,1,eosinophil,eosi,2181,312,624,0.182373108119408
+bloodmnist,2,erythroblast,eryth,1085,155,311,0.09072664938540012
+bloodmnist,3,immature granulocyte,ig,2026,290,579,0.16941215820720795
+bloodmnist,4,lymphocyte,lymph,849,122,243,0.07099255790617945
+bloodmnist,5,monocyte,mono,993,143,284,0.08303369846977172
+bloodmnist,6,neutrophil,neut,2330,333,666,0.1948323438414583
+bloodmnist,7,platelet,plt,1643,235,470,0.1373860690693202
