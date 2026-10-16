@@ -1,5 +1,7 @@
 # Medical Image Classification That Knows When Not to Predict
 
+[![CI](https://github.com/ChetanYarlagadda/medical-image-uncertainty/actions/workflows/ci.yml/badge.svg)](https://github.com/ChetanYarlagadda/medical-image-uncertainty/actions/workflows/ci.yml)
+
 **Can an image classifier tell when its own answer should not be trusted, and does that still hold when the images
 are degraded or come from the wrong modality?** This project fine-tunes ImageNet ResNet-18 models on two MedMNIST+
 data sets at 64 x 64 pixels, DermaMNIST (dermatoscopic skin lesions, 7 classes, 67% one class) and BloodMNIST
